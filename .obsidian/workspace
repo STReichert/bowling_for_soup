@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "47d7105fd5cdfb16",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b81297c1c355c16",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "People/Zorka Trebain.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3999c00889fd47b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cab5690a2116de5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8b1729841bb69fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73d5606915508f4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "570144dc71b6aa90",
+    "type": "split",
+    "children": [
+      {
+        "id": "4043050ea6bb9ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e08f2330b1e52c68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Zorka Trebain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2b81297c1c355c16",
+  "lastOpenFiles": [
+    "People/Zorka Trebain.md",
+    "Places/Shady Creek Run.md"
+  ]
+}

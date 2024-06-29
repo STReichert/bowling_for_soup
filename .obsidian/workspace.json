@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "47d7105fd5cdfb16",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eb6853e67f948ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5275b9be010fac0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74f0809fd409c097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working Document.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3999c00889fd47b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cab5690a2116de5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8b1729841bb69fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73d5606915508f4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4ffccc2a25d7208",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "570144dc71b6aa90",
+    "type": "split",
+    "children": [
+      {
+        "id": "4043050ea6bb9ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e08f2330b1e52c68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a4063b7490c8f549",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b61d211b07bf140",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "58c8d0e19b059ac4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "5275b9be010fac0c",
+  "lastOpenFiles": [
+    "Working Document.md",
+    "World.md",
+    "🤝 Factions/Righteous Brand.md",
+    "🤝 Factions/Savalier Hag Coven.md",
+    "🤝 Factions/Utlot Crime Family.md",
+    "🤝 Factions/Trebain Crime Family.md",
+    "Templates/Faction.md",
+    "🙋 People/Berrain Stonebrow.md",
+    "Templates/City.md",
+    "Templates/Session.md",
+    "Templates/Location.md",
+    "Templates/Combat.md",
+    "🗓️ Sessions/2024-06-27 Killing Some Hags.md",
+    "🗓️ Sessions/2024-06-17 Hag Hunting.md",
+    "📚 In Game Resources & Lore/Contract with Heddy.md",
+    "📚 In Game Resources & Lore/Vestiges of Divergence.md",
+    "📚 In Game Resources & Lore/Changeling Code & Culture.md",
+    "📚 In Game Resources & Lore/Brawny Awl's Books.md",
+    "🕵️‍♀️ Mysteries and Quests ⚔️/The Corruption.md",
+    "🙋 People/Derald.md",
+    "🗺️ Places/Uthodurn.md",
+    "Quests, Questions, and Mysteries.md",
+    "Home & Agenda.md",
+    "🕵️‍♀️ Mysteries and Quests ⚔️/Crime in Port Damali (Promises to Laukrin).md",
+    "🗺️ Places/Port Damali.md",
+    "🕵️‍♀️ Mysteries and Quests ⚔️/Aust's Family and the Underdark.md",
+    "Images/Wildemount.jpg",
+    "Images/Wildemount_Poster_Map.webp",
+    "Images/Wildemount_Poster_Map.webp.crdownload",
+    "Images",
+    "🕵️‍♀️ Mysteries and Quests ⚔️",
+    "📚 In Game Resources & Lore/Gods",
+    "🗺️ Places/Businesses & Specifics",
+    "👹 Monsters",
+    "🙋 People/PCs",
+    "📚 In Game Resources & Lore/Items",
+    "📚 In Game Resources & Lore",
+    "Faction"
+  ]
+}

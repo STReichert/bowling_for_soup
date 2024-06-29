@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "skills": "multitext",
+    "faction": "multitext",
+    "location": "multitext",
+    "title(s)": "multitext",
+    "class": "multitext",
+    "class(es)": "multitext"
+  }
+}

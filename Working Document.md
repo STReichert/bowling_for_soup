@@ -12,3 +12,4 @@ A place where we can work out what to do with this wiki and what still needs to 
 - [ ] Ulfgar's Story and Backstory
 - [ ] Aust's Story and Backstory
 - [ ] O's Story and Backstory
+- [ ] Share video about accessing notes

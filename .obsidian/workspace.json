@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5275b9be010fac0c",
+            "id": "bde26cd3131ba443",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b48dee58ea4b154f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗓️ Sessions/2024-07-03 Ruby and Raising the Dead.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,12 +170,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5275b9be010fac0c",
+  "active": "bde26cd3131ba443",
   "lastOpenFiles": [
+    "Images/Wildemount.jpg",
+    "Images/Fading Spirit Ruleset.jpg",
+    "📚 In Game Resources & Lore/The Fading Spirit - Resurrections Rules.md",
+    "📚 In Game Resources & Lore/Vestiges of Divergence.md",
+    "📚 In Game Resources & Lore/Contract with Heddy.md",
+    "🗓️ Sessions/2024-07-03 Ruby and Raising the Dead.md",
+    "🗓️ Sessions/2024-06-27 Killing Some Hags.md",
+    "2024-.md",
+    "Ruins of Molaesmyr.md",
+    "World.md",
     "Oh Dang (Players).docx",
     "Oh Dang.docx",
     "Working Document.md",
-    "World.md",
     "🤝 Factions/Righteous Brand.md",
     "🤝 Factions/Savalier Hag Coven.md",
     "🤝 Factions/Utlot Crime Family.md",
@@ -174,20 +195,12 @@
     "Templates/Session.md",
     "Templates/Location.md",
     "Templates/Combat.md",
-    "🗓️ Sessions/2024-06-27 Killing Some Hags.md",
     "🗓️ Sessions/2024-06-17 Hag Hunting.md",
-    "📚 In Game Resources & Lore/Contract with Heddy.md",
-    "📚 In Game Resources & Lore/Vestiges of Divergence.md",
     "📚 In Game Resources & Lore/Changeling Code & Culture.md",
     "📚 In Game Resources & Lore/Brawny Awl's Books.md",
     "🕵️‍♀️ Mysteries and Quests ⚔️/The Corruption.md",
     "🙋 People/Derald.md",
     "🗺️ Places/Uthodurn.md",
-    "Quests, Questions, and Mysteries.md",
-    "Home & Agenda.md",
-    "🕵️‍♀️ Mysteries and Quests ⚔️/Crime in Port Damali (Promises to Laukrin).md",
-    "🗺️ Places/Port Damali.md",
-    "Images/Wildemount.jpg",
     "Images/Wildemount_Poster_Map.webp",
     "Images/Wildemount_Poster_Map.webp.crdownload",
     "Images",
@@ -196,7 +209,6 @@
     "🗺️ Places/Businesses & Specifics",
     "👹 Monsters",
     "🙋 People/PCs",
-    "📚 In Game Resources & Lore/Items",
-    "📚 In Game Resources & Lore"
+    "📚 In Game Resources & Lore/Items"
   ]
 }

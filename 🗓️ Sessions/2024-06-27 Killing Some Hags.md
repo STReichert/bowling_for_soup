@@ -34,4 +34,7 @@ There is a young woman with bright red hair chained to the ground in the cavern 
 ## Summary
 We fight with the hags, and boy howdy...
 	We kill them
-	But 
+	But Aust got killed
+	We free Aurelia and the Other captives but they are all very out of it
+		Aurelia can cast reincarnate, but neither she (nor Ulfgar) have what we would need to do that.
+	O has a moment with aust

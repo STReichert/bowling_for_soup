@@ -1,6 +1,7 @@
 ---
 location: 
-tags:
+tags: 
+dg-publish:
 ---
 ## Previous Session Recap
 

@@ -9,5 +9,5 @@ The [[Savalier Wood]] for several hundred years has been growing dark, dangerous
 ## Outstanding Questions
 - What is up with the Ruby of Power? Who or what is it? 
 ## To-Do
-- [ ] Kill the Coven
+- [x] Kill the Coven ✅ 2024-07-05
 - [ ] Figure out what is Up with the "Ruby of Power" O is contracted to destroy it/her/them.

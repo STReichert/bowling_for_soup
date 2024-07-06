@@ -1,4 +1,7 @@
-
+---
+dg-publish: true
+dg-home: false
+---
 ```leaflet
 id: wildemount
 image: [[Wildemount.jpg]]

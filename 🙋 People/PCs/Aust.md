@@ -13,4 +13,5 @@ aliases:
   - Death Weaver
 skills:
   - bashing
+dg-publish: true
 ---

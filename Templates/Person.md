@@ -8,7 +8,8 @@ class(es):
 title(s): 
 tags: 
 aliases: 
-skills:
+skills: 
+dg-publish:
 ---
 ## Description
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Recap of the fight
 Fighting hags! Scary hags. Brambles and damage
 - We haven't destroyed the eye. but we should soon

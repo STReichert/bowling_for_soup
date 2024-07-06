@@ -1,5 +1,6 @@
 ---
-location: 
+location:
+  - "[[Nogvurot]]"
 tags:
 ---
 ## Description

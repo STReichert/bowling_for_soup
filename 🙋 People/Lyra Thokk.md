@@ -1,6 +1,7 @@
 ---
 type: PC
-faction: "[[Bowling for Soup]]"
+faction:
+  - "[[Bowling for Soup]]"
 location: 
 description: 
 race: Half-Orc
@@ -12,4 +13,5 @@ aliases:
   - Lyra
 skills:
   - bashing
+dg-publish: true
 ---

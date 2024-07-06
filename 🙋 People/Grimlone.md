@@ -11,7 +11,8 @@ title(s):
 tags:
   - "#bbeg"
 aliases: 
-skills:
+skills: 
+dg-publish: true
 ---
 ## Description
 Bad bad evil dude who was the puppet master of [[Lord Alastair Renkorr|Renkorr]] and all of the bad shit in [[Nogvurot]] and maybe also did some bad shit in the past in O's backstory?

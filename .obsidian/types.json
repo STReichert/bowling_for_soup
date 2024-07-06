@@ -8,6 +8,8 @@
     "location": "multitext",
     "title(s)": "multitext",
     "class": "multitext",
-    "class(es)": "multitext"
+    "class(es)": "multitext",
+    "dg-publish": "checkbox",
+    "dg-home": "checkbox"
   }
 }

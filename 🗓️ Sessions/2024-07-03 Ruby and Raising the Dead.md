@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 ![[2024-06-27 Killing Some Hags#Summary]]
 The last things Aust remembers is Anabel falling and the claws entering his chest.
 O and Faem Meet Ruby

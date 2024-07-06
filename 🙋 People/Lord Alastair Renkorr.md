@@ -15,5 +15,6 @@ tags:
   - "#deceased"
 aliases:
   - Renkorr
-skills:
+skills: 
+dg-publish: true
 ---

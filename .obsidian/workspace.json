@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤝 Factions/Righteous Brand.md",
+                "file": "Home & Agenda.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤝 Factions/Righteous Brand.md",
+                "file": "Home & Agenda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,9 @@
   },
   "active": "bde26cd3131ba443",
   "lastOpenFiles": [
+    "🤝 Factions/Righteous Brand.md",
+    "🗺️ Places/Dwendalian Empire (Place).md",
+    "Don't Share",
     "🤝 Factions/Kryn Dynasty.md",
     "🤝 Factions/Dwendalian Empire.md",
     "🤝 Factions/Diarchy of Uthodurn.md",
@@ -197,10 +200,8 @@
     "Templates/Faction.md",
     "Templates/Combat.md",
     "Templates/City.md",
-    "🗺️ Places/Ruins of Molaesmyr.md",
     "Images/Wildemount.jpg",
     "Images/Fading Spirit Ruleset.jpg",
-    "📚 In Game Resources & Lore/The Fading Spirit - Resurrections Rules.md",
     "Oh Dang (Players).docx",
     "Oh Dang.docx",
     "Images/Wildemount_Poster_Map.webp",
@@ -210,7 +211,6 @@
     "📚 In Game Resources & Lore/Gods",
     "🗺️ Places/Businesses & Specifics",
     "👹 Monsters",
-    "🙋 People/PCs",
-    "📚 In Game Resources & Lore/Items"
+    "🙋 People/PCs"
   ]
 }

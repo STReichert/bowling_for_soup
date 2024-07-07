@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Tall tower
 central place for taskers
 In town: Trench

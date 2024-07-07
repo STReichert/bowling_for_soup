@@ -11,6 +11,7 @@ tags:
   - "#chaotic"
 aliases: 
 skills:
+dg-publish: true
 ---
 ## Description
 A slimy little creature and trickster... he sells wild magic potions that often result in... slimy after effects. The potions are his own bile which is pretty gross. 

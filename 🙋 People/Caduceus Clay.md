@@ -13,6 +13,7 @@ aliases:
   - Caduceus
 skills:
   - Gardening
+dg-publish: true
 ---
 ## Description
 An incredibly sweet and lovely Fierbolg who has taken the mantle of [[Blooming Grove]] over from his parents since they disappeared into the [[Savalier Wood]]

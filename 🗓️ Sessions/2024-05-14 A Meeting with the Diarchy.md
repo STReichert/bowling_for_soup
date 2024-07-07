@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 We have an audience with [[Diarchy of Uthodurn|the Diarchy]] (female dwarf and dude elf) 
 	Queen: Simone Fruunast
 		daughter of the queen who took on the elfs

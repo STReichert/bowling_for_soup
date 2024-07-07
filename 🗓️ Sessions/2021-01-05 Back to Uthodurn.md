@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 We sneak past the ogres by distracting them with wolves and climb up a steep cliff
 
 [[Shazarial Bendelthal]]

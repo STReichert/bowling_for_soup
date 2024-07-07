@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Noticed that things went bad in nogvurot 
 	Renkorr became (Starostra?)
 	the city has gone bad

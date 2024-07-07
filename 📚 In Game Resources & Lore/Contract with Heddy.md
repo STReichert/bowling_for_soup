@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 1. The parties of Olo, Ulfgar, Aust, and Faem will be teleported to a cleric capable of casting Greater Restoration who may restore the lost life of Faem of the Silver Raven Clan
 2. In exchange, one Olo will destroy the Ruby of Power.
 	1. In the event that the Ruby of Power is not destroyed by the undersigned parties, it must be delivered immediately by hand to Heddy Hobbleham who shall ensure it is kept safe from use by any individual or group, Heddy included, until means of its destruction can be acquired. 

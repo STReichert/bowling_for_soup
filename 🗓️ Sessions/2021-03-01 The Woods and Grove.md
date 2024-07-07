@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## O talks to Lyra
 O: “I wonder if we could get to know eachother a bit yes?
 Lyra sighs and says sure lets get to know eachother

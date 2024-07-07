@@ -13,6 +13,7 @@ tags:
   - anarcho-socialist
 aliases: 
 skills:
+dg-publish: true
 ---
 ## Description
 A friendly socialist halfling postmaster in Nogvurot. O had a great conversation with him.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Where we are:
 
 - [[Zahara Norixius|Zahara]] is talking to [[Diarchy of Uthodurn|the diarchy]] to ask them to let [[Zahara Norixius|Zahara]] go with us

@@ -12,5 +12,6 @@ tags:
 aliases:
   - Dindar
 skills:
+dg-publish: true
 ---
 ## Description

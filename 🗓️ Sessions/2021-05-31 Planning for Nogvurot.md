@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 2 day trip through quenna gap
 Aust practices fighting with lyra
 

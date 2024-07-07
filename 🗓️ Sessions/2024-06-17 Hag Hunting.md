@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Where we are:
 - In the forest just landed in the hags clearing
 - They have a hostage ([[Aurelia Clay]])

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Recap
 - We fought off a bunch of yeth hounds from the [[Blooming Grove]]
 - Aurelia was actually a hag who petrified [[Siobhan]]

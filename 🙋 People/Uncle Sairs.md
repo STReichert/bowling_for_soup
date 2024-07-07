@@ -10,4 +10,5 @@ tags:
   - "#mentor"
 aliases: 
 skills:
+dg-publish: true
 ---

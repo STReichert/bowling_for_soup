@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 We enter the tavern to meet Berrain Stonebrown with some guards
 - As we enter Stonebrow is pretending to not notice us

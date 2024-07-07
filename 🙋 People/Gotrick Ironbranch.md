@@ -8,5 +8,6 @@ pronouns:
 class: 
 tags: 
 aliases: 
-skills: 
+skills:
+dg-publish: true
 ---

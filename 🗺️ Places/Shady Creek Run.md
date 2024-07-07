@@ -8,6 +8,7 @@ gender:
 class: 
 tags: 
 aliases:
+dg-publish: true
 ---
 Nestled in the mountains north of Nogvurot south of the Blooming Grove
 this town is home to theives and swashbucklers

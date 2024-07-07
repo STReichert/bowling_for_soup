@@ -1,4 +1,6 @@
-
+---
+dg-publish: true
+---
 ## Open
 - What is up with the [[Savalier Wood]]?
 	- We find out that it is a coven of Hags and we are actively tracking them down and trying to kill them...

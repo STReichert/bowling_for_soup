@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Active Projects
 Getting Rid of [[Berrain Stonebrow]]
 Rebuilding:

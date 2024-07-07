@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - Aust tries to tell [[Zahara Norixius|Zahara]] he'll be more like 8:30... but her (assistant?) 
 ## Chatting and catching up as a group
 - We relay the various news

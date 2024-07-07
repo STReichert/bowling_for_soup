@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 We found ourselves in a nest of spiders 
 Fuck these siders turn into shadow?!?!?
 Ulfgar almost died

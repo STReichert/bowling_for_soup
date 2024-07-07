@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## We head out
 - There is something following us and slipping out of view
 - I fake trip and O comes to help me

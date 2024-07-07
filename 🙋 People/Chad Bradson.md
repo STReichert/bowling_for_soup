@@ -13,6 +13,7 @@ tags:
   - asshole
 aliases: 
 skills:
+dg-publish: true
 ---
 ## Description
 Shopkeep and narc in Nogvurot.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Secrarium
 Cave
 speak name “secrarium” to go through the archway

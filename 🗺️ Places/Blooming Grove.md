@@ -9,4 +9,5 @@ class:
 tags: 
 aliases: 
 skills:
+dg-publish: true
 ---

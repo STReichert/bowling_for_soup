@@ -12,6 +12,7 @@ tags:
 aliases:
   - The Brawny Awl
 skills:
+dg-publish: true
 ---
 ## Description
 

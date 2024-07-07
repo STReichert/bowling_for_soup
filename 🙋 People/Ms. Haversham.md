@@ -11,6 +11,7 @@ tags:
   - friend
 aliases: 
 skills:
+dg-publish: true
 ---
 ## Description
 A cat that [[Ulfgar Brawnanvile|Ulfgar]] befriended in [[Nogvurot]] that gave him a lot of insight into the city.

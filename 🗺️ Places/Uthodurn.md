@@ -5,7 +5,8 @@ faction:
 location: 
 tags:
   - "#City"
-aliases: 
+aliases:
+dg-publish: true
 ---
 ## Description
 

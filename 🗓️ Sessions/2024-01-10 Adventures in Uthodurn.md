@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Recap
 
 - We start the day in the Brawny Awl!

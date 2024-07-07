@@ -5,6 +5,7 @@ location:
 aliases:
   - Trebains
 tags:
+dg-publish: true
 ---
 ## Description
 

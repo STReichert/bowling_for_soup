@@ -1,5 +1,6 @@
 ---
 status: Active
+dg-publish: true
 ---
 The [[Savalier Wood]] for several hundred years has been growing dark, dangerous and mysterious as purply vines encroach upon the trees and monsters roam the woods. The deeper into the woods one goes the more dangerous it becomes. This appears to be centered on the [[Ruins of Molaesmyr]].
 

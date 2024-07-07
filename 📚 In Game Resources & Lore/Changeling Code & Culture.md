@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## The Code
 1. Protect the clan, keep them safe.
 2. Never take the faces of the dead.

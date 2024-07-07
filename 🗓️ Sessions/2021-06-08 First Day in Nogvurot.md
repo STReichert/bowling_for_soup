@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Plan: hit the city to figure out what is going on
 - What happened to the crownsguard?
 - Heard of mercenary force now in the city?

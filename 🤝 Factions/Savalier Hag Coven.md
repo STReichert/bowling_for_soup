@@ -2,6 +2,7 @@
 location:
   - "[[Savalier Wood]]"
 tags:
+dg-publish: true
 ---
 ## Description
 

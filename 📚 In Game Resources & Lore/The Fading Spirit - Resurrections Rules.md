@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 This resurrection rule set is designed to add an element of party roleplaying and narrative to the resurrection attempt, as well as the creeping threat of permanent death to a character.
 #### Resurrection Challenge
 If a character is dead, and a return from death is attempted by a spell or spell effect with longer than a one action casting time, a Resurrection Challenge is initiated. Up to 3 members of the adventuring party can offer to contribute to the ritual via skill checks. The DM asks them each to make a skill check based on their form of contribution, with the DC of the check adjusting to how helpful/impactful the DM feels the contribution would be.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 We fight the effigy of the people that fell in the pit (lyra, aust, mug, heckud, ulfgar)
 Vines controlling them
 elven women screaming but then dissapeared.

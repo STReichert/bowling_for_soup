@@ -10,6 +10,7 @@ tags:
   - "#deceased"
 aliases: 
 skills:
+dg-publish: true
 ---
 ## Description
 Lyra's dad. Author. Average human man. Sweet kind face.

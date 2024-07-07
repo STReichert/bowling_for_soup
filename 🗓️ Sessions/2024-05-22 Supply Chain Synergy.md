@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 We hear from [[Diarchy of Uthodurn|the Diarchy]]:
 	No [[Zahara Norixius|Zahara]] :(
 	We can try to convince people in the Brawny awl and they will allow that but not commanded

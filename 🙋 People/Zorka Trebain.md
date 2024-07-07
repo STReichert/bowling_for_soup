@@ -11,6 +11,7 @@ class:
   - Unknown
 tags:
   - burned_bridge
+dg-publish: true
 ---
 ## Description
 A Tabaxi Woman, Faem's Former Employer (ended on bad-ish terms as far as Rav is concerned)

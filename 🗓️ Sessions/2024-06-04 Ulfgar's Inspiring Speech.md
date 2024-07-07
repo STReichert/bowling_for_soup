@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 We all wake up in the morning to alarm bells as there is the decaying moose sent to be a bad omen for the Brawny awl
 
 Seems to have been gutted and have had an eye gouged out.

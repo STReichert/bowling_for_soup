@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Brawny Awl
 - We make it
 - The defensive walls seem almost done

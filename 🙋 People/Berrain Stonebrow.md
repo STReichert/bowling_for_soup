@@ -17,6 +17,7 @@ aliases:
   - Captain Stonebrow
 skills:
   - Smuggling Drugs
+dg-publish: true
 ---
 ## Description
 He's the asshole captain of the guard at the Brawny Awl that we want to get rid of/put in his place.

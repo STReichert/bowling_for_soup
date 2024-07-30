@@ -9,7 +9,10 @@ A place where we can work out what to do with this wiki and what still needs to 
 - What factions have we met or do we know about? 
 - What locations do we know?
 ## To-add
+- [ ] Flesh out factions and characters we've met
+- [ ] Flesh out places we've been or know about
+- [ ] Add remaining session notes
 - [ ] Ulfgar's Story and Backstory
 - [ ] Aust's Story and Backstory
 - [ ] O's Story and Backstory
-- [ ] Share video about accessing notes
+- [x] Share video about accessing notes ✅ 2024-07-20

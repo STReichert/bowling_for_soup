@@ -3,13 +3,14 @@ dg-home: true
 dg-publish: true
 ---
 ## Next Session
-- July 18th @ 7:30 PM Eastern
+- Monday August 5th at 7:30 PM eastern
 ## Active Quest
-- Figure Out What to Do about Ruby
+- Get O back with the party
+- Break the Curse on Aust/the sword
 ## What's on the Back-burner
 
 ## All Tasks
 ```dataview
 TASK
-WHERE !completed
+WHERE !completed AND file.name != "Working Document"
 ```

@@ -3,7 +3,7 @@ dg-home: true
 dg-publish: true
 ---
 ## Next Session
-- Monday August 5th at 7:30 PM eastern
+- Monday August 19th at 7:30 PM eastern
 ## Active Quest
 - Get O back with the party
 - Break the Curse on Aust/the sword

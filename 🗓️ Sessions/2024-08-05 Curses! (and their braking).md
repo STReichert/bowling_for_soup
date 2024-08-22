@@ -9,8 +9,8 @@ dg-publish: true
 [[O]] ran off into the woods and decided not to kill ruby, so they grew really old. (after talking to aust)
 Aust killed ruby because the sword made him do it.
 ## Agenda/To-Do
-- [ ] Lift the curse on Aust from this sword (Aust goes to Zahara for help)
-- [ ] Faem and Ulfgar go try to catch up with O and get them to come back.
+- [x] Lift the curse on Aust from this sword (Aust goes to Zahara for help) ✅ 2024-08-21
+- [x] Faem and Ulfgar go try to catch up with O and get them to come back. ✅ 2024-08-21
 ## Summary
 ### O alone in the woods
 They are in the woods alone and remember they still have the mace with them.as they reach a glade. They make a prayer about circles.

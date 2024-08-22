@@ -11,6 +11,10 @@ aliases:
 skills: 
 dg-publish:
 ---
+
+| Faction         | Location         | Race         | Pronouns         | Class(es)            | Title               |
+| --------------- | ---------------- | ------------ | ---------------- | -------------------- | ------------------- |
+| `=this.faction` | `=this.location` | `=this.race` | `=this.pronouns` | `=this["class(es)"]` | `=this["title(s)"]` |
 ## Description
 
 ## Seen

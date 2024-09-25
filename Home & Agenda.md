@@ -3,12 +3,15 @@ dg-home: true
 dg-publish: true
 ---
 ## Next Session
-- Thursday September 5th at 7:30 PM eastern
+- Tuesday October 1st, 8:30pm
 ## Active Quest
-- Get O back with the party
-- Break the Curse on Aust/the sword
+- Set up a brunch for the Brawny Awl
+- Get ready to go to the underdark
+- Take on stonebrown in some way
 ## What's on the Back-burner
-
+- Where are the changelings?
+- What is up with Grimlone
+- O will need to go back to the menagerie coast in a few years.
 ## All Tasks
 ```dataview
 TASK

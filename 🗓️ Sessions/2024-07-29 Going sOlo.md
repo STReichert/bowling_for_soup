@@ -43,7 +43,7 @@ While drinking with Faem, Ulfgar, and Aust, Ruby comes down the stairs and Aust 
 
 ## For Next Time
 - [ ] Lift the curse on Aust from this sword (Aust goes to Zahara for help)
-- [ ] Faem and Ulfgar go try to catch up with O and get them to come back.
+- [x] Faem and Ulfgar go try to catch up with O and get them to come back.
 
 ## Talking about O
 They want to make their way to the menagerie coast at some point but they don't want to retire their character necessarily. 

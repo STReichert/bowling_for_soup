@@ -1,20 +1,15 @@
 ---
-type: PC
-faction:
-  - "[[Bowling for Soup]]"
-location: 
-description: 
-race: Tortle
-pronouns: they/them
-class:
-  - Cleric
+type: NPC
+faction: 
+location:
+  - "[[Brawny Awl]]"
+race: Elf
+pronouns: he/him
+class(es): 
+title(s): 
 tags: 
-aliases:
-  - Olo
-skills:
-  - Soup
-  - Healing
-  - Celestial
+aliases: 
+skills: 
 dg-publish: true
 ---
 
@@ -22,3 +17,10 @@ dg-publish: true
 | --------------- | ---------------- | ------------ | ---------------- | -------------------- | ------------------- |
 | `=this.faction` | `=this.location` | `=this.race` | `=this.pronouns` | `=this["class(es)"]` | `=this["title(s)"]` |
 ## Description
+The head barkeep at the tavern in the Brawny Awl. Chill dude.
+## Seen
+```dataview
+LIST
+FROM "🗓️ Sessions"
+WHERE contains(file.outlinks, this.file.link)
+```

@@ -42,7 +42,7 @@ The berries are out, Ulfgar cast plant growth. They are going strong.
 Ulfgar meets a boar that started charging him in the woods and from up in the trees hears a voice say "Hi-ho! thank you for distracting that foul beast for me"
 	Dark brownskinned elf (tree bark colored) Oak.
 
-[[Elsavara Roarin]] - Hunter Extraordinare
+[[Elsivar Arorenn]] - Hunter Extraordinare
 	"Panini" is probably my favorite character around
 	[[Gotrick Ironbranch]] Is great to talk to.
 	Stonebrow is a straightforward man, not a great person to hang out with and they buy his boar.
@@ -79,6 +79,7 @@ Stumbles on a class about speaking giants. This teacher on the poster looks like
 	A week long class about speaking giant and giant culture. This person has rented out an event space on the Libre disk for the immersive language and culture course.
 The poster was slimming him down.
 	He is very tall, muscular, and has a little pot belly.
+	His name is [[Manneo Anokalarithivaniako]]
 He seems wild. 
 O has been reading 
 	*My Neighbor Rolgerf* a book that seems fanciful and exoticized. 
